@@ -1,2 +1,2 @@
 # random
-first random github repositaryu
+first random github repositary
